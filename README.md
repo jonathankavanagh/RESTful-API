@@ -1,21 +1,21 @@
 ## RESTful API Calculator
 
 ##Setting Up:
-Download API.zip from https://github.com/jonathankavanagh/Calc.hs
+Download API.zip from https://github.com/jonathankavanagh/Calc.hs.
 1. $ cd API, 
 2. $ stack build, 
 3. $ stack exec API, 
 4. URL: localhost:3000 
 
 ##Functions:
--Addition: localhost:3000/add/left/right, 
+- Addition: localhost:3000/add/left/right, 
 
--Subtraction: localhost:3000/subtract/left/right, 
+- Subtraction: localhost:3000/subtract/left/right, 
 
--Division: localhost:3000/divide/left/right, 
+- Division: localhost:3000/divide/left/right, 
 
--Multiplication: localhost:3000/multiply/left/right, 
+- Multiplication: localhost:3000/multiply/left/right, 
 
 ##Left/right
--Left: Left Argument
--Right: Right Argument
+- Left: Left Argument
+- Right: Right Argument
