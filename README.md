@@ -1,7 +1,7 @@
 ## RESTful API Calculator
 
 ##Setting Up:
-Download API.zip from https://github.com/jonathankavanagh/Calc.hs.
+Download API.zip from https://github.com/jonathankavanagh/RESTful-API
 - $ cd API, 
 - $ stack build, 
 - $ stack exec API, 
